@@ -68,7 +68,7 @@ MetaML-JSON-Generator/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/metaML-json-generator.git
+git clone https://github.com/manojkumar471/metaML-json-generator.git
 cd metaML-json-generator
 
 # 2. Install dependencies
